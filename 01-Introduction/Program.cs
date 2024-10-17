@@ -2,12 +2,15 @@
 {
     internal class Program
     {
-        // TODO 01: Explore Hello World program.
-        // TODO 02: Explore comments.
+        // Explore Hello World program.
+        // Explore comments.
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
+
+            VariablesandPrimitiveDataTypes vpd 
+                = new VariablesandPrimitiveDataTypes();
         }
     }
 }
